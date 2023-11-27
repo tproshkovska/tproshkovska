@@ -2,7 +2,7 @@
 - 👀 I’m interested in Automation testing
 - 🌱 I’m currently learning js and ts
 - 💞️ I’m looking to collaborate on companies witch will pay me :)
-- 📫 How to reach me: onlyfans( . )( . )
+- 📫 How to reach me: 
 
 <!---
 tproshkovska/tproshkovska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
